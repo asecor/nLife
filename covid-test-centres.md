@@ -8,6 +8,7 @@ description: >-
 
 | **Price** | Company | Website |
 | :--- | :--- | :--- |
+| €59 | Corona Testcentrum De Terp | [https://coronatestcentrumdeterp.nl/](https://coronatestcentrumdeterp.nl/) |
 | €85 | Coronasnelcheck.nl | [https://www.coronasnelcheck.nl/pcr-test/](https://www.coronasnelcheck.nl/pcr-test/) |
 | €85 | Coronareistesten.nl | [https://coronareistesten.nl/onze-testen/pcr-test/](https://coronareistesten.nl/onze-testen/pcr-test/) |
 | €89 | Carephar | [https://carephar.nl/](https://carephar.nl/) |
