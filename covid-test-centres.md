@@ -16,6 +16,7 @@ description: >-
 | €115 | Planjecoronatest | [https://www.planjecoronatest.nl/](https://www.planjecoronatest.nl/) |
 | €119 | Covid19kliniek | [https://covid19kliniek.nl/](https://covid19kliniek.nl/) |
 | €119 | Fammedics | [https://fammedics.nl/](https://fammedics.nl/) |
+| €129 | Lead Covid Service | [https://www.covidsnelteststraat.nl/](https://www.covidsnelteststraat.nl/) |
 | €139 | Coronalab | [https://coronalab.eu/](https://coronalab.eu/) |
 | €139 | Speedtest | [https://spoedtest.nl/en/](https://spoedtest.nl/en/) |
 | €139 | Vaccinaties op Reis | [https://www.vaccinatiesopreis.nl/](https://www.vaccinatiesopreis.nl/) |
