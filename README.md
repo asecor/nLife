@@ -193,11 +193,6 @@ The lists below are in no particular order, and as always **be critical, get dif
 * [https://www.snappcar.nl/](https://www.snappcar.nl/) - Rent other people's cars
 * [https://www.autoeurope.nl/](https://www.autoeurope.nl/)
 
-### Fuel/Petrol Comparison Sites/Apps
-
-* [DirectLease Tankservice App](https://play.google.com/store/apps/details?id=com.app_it_up.dl_tankservice&hl=nl&gl=US)
-* [https://pompmeister.nl/](https://pompmeister.nl/)
-
 ### Car Selling/Buying <a id="car-sellingbuying"></a>
 
 * [https://bynco.com/nl-en/](https://bynco.com/nl-en/)
