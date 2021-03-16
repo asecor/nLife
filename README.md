@@ -4,7 +4,7 @@ description: >-
   services recommended by local locals, local expats, and those in between!
 ---
 
-# nLife
+# General
 
 The lists below are in no particular order, and as always **be critical, get different offers, and follow your gut instinct.** 
 
@@ -157,6 +157,15 @@ The lists below are in no particular order, and as always **be critical, get dif
 
 ## **Child Related** <a id="child-related"></a>
 
+### Kraamzorg / Post Natal Care
+
+* [https://www.babycarekraamzorg.com/](https://www.babycarekraamzorg.com/)
+* [https://www.kraamzorg1op1.nl/](https://www.kraamzorg1op1.nl/)
+* [https://miterandco.nl/](https://miterandco.nl/)
+* [https://bbyzorg.nu/](https://bbyzorg.nu/)
+* [https://kraamzorghetzonnetje.nl/](https://kraamzorghetzonnetje.nl/)
+* [https://www.kraamzorganne.nl/](https://www.kraamzorganne.nl/)
+
 ### Baby Sitter <a id="baby-sitter"></a>
 
 * [https://nannynina.nl/](https://nannynina.nl/)
@@ -192,6 +201,11 @@ The lists below are in no particular order, and as always **be critical, get dif
 * [https://www.ufodrive.com/en/](https://www.ufodrive.com/en/) - Fancy cars \(Tesla\)
 * [https://www.snappcar.nl/](https://www.snappcar.nl/) - Rent other people's cars
 * [https://www.autoeurope.nl/](https://www.autoeurope.nl/)
+
+### Fuel/Petrol Comparison Sites/Apps
+
+* [DirectLease Tankservice App](https://play.google.com/store/apps/details?id=com.app_it_up.dl_tankservice&hl=nl&gl=US)
+* [https://pompmeister.nl/](https://pompmeister.nl/)
 
 ### Car Selling/Buying <a id="car-sellingbuying"></a>
 
