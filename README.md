@@ -58,6 +58,8 @@ The lists below are in no particular order, and as always **be critical, get dif
 ### CV Ketel / Central Heating Systems <a id="cv-ketel"></a>
 
 {% hint style="info" %}
+Some things to keep in mind:
+
 * Do you want/have rain shower? \(CV5\)
 * Do you want/have underfloor heating?
 * Do you have a large house?
