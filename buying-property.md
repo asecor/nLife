@@ -24,10 +24,6 @@ description: >-
 * If your property is below € 325.000 you can get even lower interest rates with **NHG** \(National Hypotheek Guarantee\). 
 * When energy-saving measures are involved, the maximum mortgage is increased by an additional 6% to **106%**. The extra 6% must be spent entirely on energy-saving measures.
 
-### Financial Advisers in NL
-
-* [https://tussenpersoon.nibcdirect.nl/investeringshypotheek/](https://tussenpersoon.nibcdirect.nl/investeringshypotheek/) - Directory of financial advisers throughout NL with their prices listed
-
 
 
 {% hint style="danger" %}

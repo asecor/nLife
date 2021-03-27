@@ -64,6 +64,8 @@ The lists below are in no particular order, and as always **be critical, get dif
 * Do you want regular vs less regular maintenance \(lower vs higher initial investment costs\)?
 
 Keep in mind that your hot water pressure is determined by the water pressure coming into your house, therefore a larger CVs will not necessarily mean more pressure in your shower. A larger CV will also mean higher running costs than a optimally sized one for your property.
+
+Leasing the CV is also a possible from various energy suppliers such as Eneco.
 {% endhint %}
 
 * [https://www.cvhal.nl/](https://www.cvhal.nl/)
