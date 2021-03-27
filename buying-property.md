@@ -24,6 +24,18 @@ description: >-
 * If your property is below € 325.000 you can get even lower interest rates with **NHG** \(National Hypotheek Guarantee\). 
 * When energy-saving measures are involved, the maximum mortgage is increased by an additional 6% to **106%**. The extra 6% must be spent entirely on energy-saving measures.
 
+### Financial Advisers in NL
+
+* [https://tussenpersoon.nibcdirect.nl/investeringshypotheek/](https://tussenpersoon.nibcdirect.nl/investeringshypotheek/) - Directory of financial advisers throughout NL with their prices listed
+
+### Fixed Mortgage Interest Rates
+
+* How do you decide whether to fix mortgage interest rate for 10 or 20 years?
+  * Depends on your own preferences and expectations. e.g. if your loan to value will improve within 10 years it can be advantageous to set it for 10 years and then get a better rate. However many mortgage providers will also lower the interest if your loan to value increases significantly even though you're still on the hook for several years
+* Check [https://beurs.fd.nl/rente-valuta/](https://beurs.fd.nl/rente-valuta/) under **Europese kapitaalmarkt &gt; IRS** for market expectation for interest rate \(i.e. the 'yield curve'\). You can consider laddering your rates in conjunction with your mortgage advisor \(i.e. mix of fixed with different terms - split 50/50 between 10y and 20y\).
+
+
+
 
 
 {% hint style="danger" %}
