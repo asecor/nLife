@@ -42,7 +42,11 @@ The lists below are in no particular order, and as always **be critical, get dif
 
 ### Solar Panel Installation Companies <a id="solar-panel-installation-companies"></a>
 
-> "The one thing I would recommend is getting an inverter that is battery ready so that in the future when batteries become more attractive you can just add it to the system. Also look at the guarantees of the panels. Think sustainability over cheaper panels." - Comment on Facebook
+{% hint style="info" %}
+"The one thing I would recommend is getting an inverter that is battery ready so that in the future when batteries become more attractive you can just add it to the system. Also look at the guarantees of the panels. Think sustainability over cheaper panels." 
+
+- Comment on Facebook
+{% endhint %}
 
 * [https://www.feenstra.com/](https://www.feenstra.com/)
 * [https://solarnrg.nl/](https://solarnrg.nl/)
@@ -50,6 +54,21 @@ The lists below are in no particular order, and as always **be critical, get dif
 * [https://www.zonneenergieopmaat.nl/](https://www.zonneenergieopmaat.nl/)
 * [http://www.energyguards.nl/](http://www.energyguards.nl/)
 * [https://www.innodura.nl/zonnepanelen-kortingsactie-aeg-solar-met-goodwe-of-solaredge.html](https://www.innodura.nl/zonnepanelen-kortingsactie-aeg-solar-met-goodwe-of-solaredge.html)
+
+### CV Ketel / Central Heating Systems <a id="repair-shops"></a>
+
+{% hint style="info" %}
+* Do you want/have rain shower? \(CV5\)
+* Do you want/have underfloor heating?
+* Do you have a large house?
+* Do you want regular vs less regular maintenance \(lower vs higher initial investment costs\)?
+
+Keep in mind that your hot water pressure is determined by the water pressure coming into your house, therefore a larger CVs will not necessarily mean more pressure in your shower. A larger CV will also mean higher running costs than a optimally sized one for your property.
+{% endhint %}
+
+* [https://www.cvhal.nl/](https://www.cvhal.nl/)
+* [https://www.cvtotaal.nl/cv-ketels/](https://www.cvtotaal.nl/cv-ketels/)
+* [https://www.warmteservice.nl/](https://www.warmteservice.nl/)
 
 ### Repair Shops <a id="repair-shops"></a>
 
