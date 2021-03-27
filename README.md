@@ -55,7 +55,7 @@ The lists below are in no particular order, and as always **be critical, get dif
 * [http://www.energyguards.nl/](http://www.energyguards.nl/)
 * [https://www.innodura.nl/zonnepanelen-kortingsactie-aeg-solar-met-goodwe-of-solaredge.html](https://www.innodura.nl/zonnepanelen-kortingsactie-aeg-solar-met-goodwe-of-solaredge.html)
 
-### CV Ketel / Central Heating Systems <a id="repair-shops"></a>
+### CV Ketel / Central Heating Systems <a id="cv-ketel"></a>
 
 {% hint style="info" %}
 * Do you want/have rain shower? \(CV5\)
