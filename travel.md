@@ -24,3 +24,9 @@ Until April 19, Belgium only allows "essential travel". You need to carry a swor
 
 
 
+{% hint style="danger" %}
+If you spot a mistake or have suggestions please contact me via **`c@nlife.nl`**
+{% endhint %}
+
+
+

@@ -20,3 +20,9 @@
 
 
 
+{% hint style="danger" %}
+If you spot a mistake or have suggestions please contact me via **`c@nlife.nl`**
+{% endhint %}
+
+
+
