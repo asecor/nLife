@@ -11,6 +11,7 @@ The lists below are in no particular order, and as always **be critical, get dif
 ## **Accommodation** <a id="accomodation"></a>
 
 * [https://www.funda.nl/](https://www.funda.nl/)
+* [https://www.pararius.nl/](https://www.pararius.nl/)
 * [https://www.rotterdamrent.com/](https://www.rotterdamrent.com/)
 * [https://www.rotsvast.nl/](https://www.rotsvast.nl/)
 * [https://www.stayci.com](https://www.stayci.com/)
@@ -87,23 +88,41 @@ Leasing the CV is also a possible from various energy suppliers such as Eneco.
 
 * [https://slimthuis.app/tools/inbraak](https://slimthuis.app/tools/inbraak) - Burglary barometer
 
-## **Animals / Vets** <a id="animals-vets"></a>
+## **Animals / Vets** 🐱🐶 <a id="animals-vets"></a>
 
 * [https://www.amivedi.nl/english](https://www.amivedi.nl/english) - Lost & found animals
 * [https://www.facebook.com/groups/256286467862511/](https://www.facebook.com/groups/256286467862511/) - Lost & found animals 070
 
-#### Vets 
+### Vets 
 
 * [https://dierenartsenkringhaaglanden.nl/dierenartsen-op-kaart](https://dierenartsenkringhaaglanden.nl/dierenartsen-op-kaart) - Map of vets
 * [https://www.dierenkliniek-hetzicht.nl/](https://www.dierenkliniek-hetzicht.nl/) - Vet
 
-#### Shelters
+### Shelters
 
+* [https://verhuisdieren.nl/alle-dieren](https://verhuisdieren.nl/alle-dieren)
+* [https://www.dierenasiels.com/zoek/asiels/nederland](https://www.dierenasiels.com/zoek/asiels/nederland)
 * [https://haagsdierencentrum.nl/](https://haagsdierencentrum.nl/)
 * [https://www.hondenzorgenwelzijn.nl](https://www.hondenzorgenwelzijn.nl)
 * [http://www.gaiadogs.org/](
   http://www.gaiadogs.org/)
 * [https://www.facebook.com/rescuedogsandcatsnl/](https://www.facebook.com/rescuedogsandcatsnl/)
+* [https://dierenbemiddelingeuropa.nl/](https://dierenbemiddelingeuropa.nl/) - **Foster an animal**
+
+### Pet Sitting
+
+{% hint style="info" %}
+The longer the track record with more reviews, the better.
+{% endhint %}
+
+* [https://www.trustedhousesitters.com/](https://www.trustedhousesitters.com/)
+* [https://www.petbnb.nl/](https://www.petbnb.nl/)
+* [https://www.kattenzorg-denhaag.nl](https://www.kattenzorg-denhaag.nl/)/
+* [https://nl.catinaflat.com/](https://nl.catinaflat.com/)
+* [https://www.huisdierenoppas.nl/](https://www.huisdierenoppas.nl/)
+* [https://www.pawshake.com/](https://www.pawshake.com/)
+* [https://www.rover.com/](https://www.rover.com/nl/)
+* [http://www.hondenpensions.nl/](http://www.hondenpensions.nl/)
 
 ## **Taxes/Belastingdienst** <a id="taxesbelastingdienst"></a>
 
