@@ -79,3 +79,9 @@ description: Below list shows how suffocating Amazon is and how many businesses 
 * [Made ](https://www.made.uk.com/)- Made’s products are handmade by Kenyan artisans, and produced using reclaimed brass from the local area.
 * [Cred ](https://credjewellery.com/)- Cred use only fairtrade-certified gold, and also sell a range of lab-grown diamond rings.
 
+
+
+{% hint style="danger" %}
+If you spot a mistake or have suggestions please contact me via **`c@nlife.nl`**
+{% endhint %}
+
