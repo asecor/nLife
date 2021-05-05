@@ -1,7 +1,5 @@
 ---
-description: >-
-  Domestic and international in no particular order recommended by others in
-  various groups.
+description: Domestic and international in no particular order recommended
 ---
 
 # Moving & Removals
@@ -29,4 +27,8 @@ Check with the municipality, in most cases you do not have to pay for parking, o
 * [Mondial Movers](https://mondial-movers.nl/)
 * [Windmill Forwarding](https://www.windmill-forwarding.com/homepage-en/)
 * \*\*\*\*[Baggage](https://baggage.nl/en/)
+
+{% hint style="danger" %}
+If you spot a mistake or have suggestions please contact me via **`c@nlife.nl`**
+{% endhint %}
 
