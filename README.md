@@ -92,6 +92,7 @@ Leasing the CV is also a possible from various energy suppliers such as Eneco.
 
 * [https://www.amivedi.nl/english](https://www.amivedi.nl/english) - Lost & found animals
 * [https://www.facebook.com/groups/256286467862511/](https://www.facebook.com/groups/256286467862511/) - Lost & found animals 070
+* [Expats with pets in The Hague \(Den Haag\)](https://www.facebook.com/groups/1943831719184644)
 
 ### Vets 
 
@@ -331,6 +332,8 @@ Shop around to compare the best rates as they can sometimes vary
 * [https://www.torfx.com/](https://www.torfx.com/)
 * [https://www.worldremit.com/](https://www.worldremit.com/)
 * [https://xe.com/](https://xe.com/)
+
+## Shelters 
 
 
 
