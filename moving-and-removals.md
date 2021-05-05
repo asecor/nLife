@@ -25,7 +25,7 @@ Check with the municipality, in most cases you do not have to pay for parking, o
 * [HET VERHUIZTEAM](https://www.hetverhuizteam.nl/en/homepage/)
 * [Gerlach Transport](https://gerlach-customs.com/customs-services/transit/)
 * [A1 Removals and Transport](http://a1removalsandtransport.co.uk/)
-* [Seven Seas](https://www.sevenseasworldwide.com/en-us/) \(+ containers\)
+* [Seven Seas](https://www.sevenseasworldwide.com/en-us/)
 * [Mondial Movers](https://mondial-movers.nl/)
 * [Windmill Forwarding](https://www.windmill-forwarding.com/homepage-en/)
 * \*\*\*\*[Baggage](https://baggage.nl/en/)
