@@ -6,4 +6,5 @@
 * [Expat Shops](expat-shops.md)
 * [Buying Property](buying-property.md)
 * [Amazon Alternatives](amazon-alternatives.md)
+* [Moving & Removals](moving-and-removals.md)
 
