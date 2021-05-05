@@ -30,5 +30,3 @@ Check with the municipality, in most cases you do not have to pay for parking, o
 * [Windmill Forwarding](https://www.windmill-forwarding.com/homepage-en/)
 * \*\*\*\*[Baggage](https://baggage.nl/en/)
 
-
-
