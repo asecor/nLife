@@ -84,9 +84,21 @@ Leasing the CV is also a possible from various energy suppliers such as Eneco.
 
 * [https://www.hijmanglas.nl/](https://www.hijmanglas.nl/)
 
+### Building / Construction / Maintenance <a id="security-buurtpreventie"></a>
+
+* [http://alvansteenbergen.nl/](http://alvansteenbergen.nl/index.html)
+
 ### Security / Buurtpreventie <a id="security-buurtpreventie"></a>
 
 * [https://slimthuis.app/tools/inbraak](https://slimthuis.app/tools/inbraak) - Burglary barometer
+
+### Locksmiths
+
+* [https://willemlochmansslotenservice.nl/](https://willemlochmansslotenservice.nl/) \(South-Holland\)
+
+### Sewage / Blockage / Drainage 
+
+* [https://www.rrs.nl/](https://www.rrs.nl/) \(Check with your VvE, they may already have a contract!\)
 
 ## **Animals / Vets** 🐱🐶 <a id="animals-vets"></a>
 
@@ -319,6 +331,21 @@ The longer the track record with more reviews, the better.
 * [https://www.werkenbijdeoverheid.nl/](https://www.werkenbijdeoverheid.nl/)
 * [https://neuvoo.nl/](https://neuvoo.nl/)
 * [https://www.rijksoverheid.nl/](https://www.rijksoverheid.nl/)
+
+## Home Office
+
+* [https://www.opnieuw.nl/](https://www.opnieuw.nl/) - desks, chairs, accessories etc.
+* [https://www.gebruikt.com/](https://www.gebruikt.com/) - used computers, laptops, keyboards, etc.
+
+{% hint style="info" %}
+Ergonomic office chairs brands/models:
+
+* Haworth Zody
+* Steelcase Gesture
+* Herman Miller Embody
+* Haworth Fern
+* Herman Miller Aeron
+{% endhint %}
 
 ## Money Transfers / Online Banks
 
