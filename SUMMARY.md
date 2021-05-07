@@ -7,4 +7,5 @@
 * [Moving & Removals](moving-and-removals.md)
 * [Expat Shops](expat-shops.md)
 * [Amazon Alternatives](amazon-alternatives.md)
+* [Chinese Food \(UK Style\)](chinese-food-uk-style.md)
 
