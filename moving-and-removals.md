@@ -1,5 +1,7 @@
 ---
-description: Domestic and international in no particular order recommended
+description: >-
+  Domestic and international companies in no particular order recommended on
+  various Facebook groups
 ---
 
 # Moving & Removals
@@ -13,6 +15,8 @@ Check with the municipality, in most cases you do not have to pay for parking, o
 {% endhint %}
 
 ## Companies
+
+As always, make sure you shop around, get different quotes and competitively compare
 
 * [RMS Transport - International moving](https://www.facebook.com/RmsMovingTransport/)
 * [RIER Moving Service](https://www.facebook.com/RIERmovingservice/)
