@@ -6,6 +6,9 @@ description: >-
 
 # COVID Test Centres
 
+* July & August you can book a free antigen/PCR test via - [https://afspraak.testenvoorjereis.nl/evenement/type](https://afspraak.testenvoorjereis.nl/evenement/type)
+* More information - [https://www.rijksoverheid.nl/onderwerpen/coronavirus-covid-19/reizen-en-vakantie/reizen-buitenland/gratis-coronatest-voor-reizigers-in-juli-en-augustus-2021](https://www.rijksoverheid.nl/onderwerpen/coronavirus-covid-19/reizen-en-vakantie/reizen-buitenland/gratis-coronatest-voor-reizigers-in-juli-en-augustus-2021) 
+
 | **Price** | Company | Website |
 | :--- | :--- | :--- |
 | €59 | Covid Test Clinic | [https://www.covidtestclinic.nl/](https://www.covidtestclinic.nl/) |
