@@ -2,8 +2,8 @@
 
 * [General](README.md)
 * [Travel](travel.md)
-* [Buying Property](buying-property.md)
 * [COVID Test Centres](covid-test-centres.md)
+* [Buying Property](buying-property.md)
 * [Moving & Removals](moving-and-removals.md)
 * [Expat Shops](expat-shops.md)
 * [Chinese Food \(UK Style\)](chinese-food-uk-style.md)
