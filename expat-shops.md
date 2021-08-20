@@ -23,6 +23,12 @@
 * [https://mexgrocer-eu.com/](https://mexgrocer-eu.com/)
 * [https://www.facebook.com/Www.saboresdaterra.nl/](https://www.facebook.com/Www.saboresdaterra.nl/)
 
+## Balkan
+
+* [https://www.prijatelji.nl/](https://www.prijatelji.nl/)
+* [Magazin Balkan \(Den Haag\)](https://goo.gl/maps/PVhUUhHvnU7LY6UL6)
+* [Spalato Delicatessen \(Den Haag\)](https://goo.gl/maps/9hYQ14TgnsH7DE8CA)
+
 {% hint style="danger" %}
 If you spot a mistake or have suggestions please contact me via **`c@nlife.nl`**
 {% endhint %}
