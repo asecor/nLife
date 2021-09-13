@@ -9,4 +9,5 @@
 * [Chinese Food \(UK Style\)](chinese-food-uk-style.md)
 * [Amazon Alternatives](amazon-alternatives.md)
 * [Japanese Knives](japanese-knives.md)
+* [Coffee](coffee.md)
 
