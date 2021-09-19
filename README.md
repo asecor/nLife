@@ -342,6 +342,8 @@ The longer the track record with more reviews, the better.
 * [https://www.amoriabond.com/en/](https://www.amoriabond.com/en/)
 * [https://www.headfirst.nl/zelfstandig-professionals/](https://www.headfirst.nl/zelfstandig-professionals/)
 * [https://between.com/](https://between.com/)
+* [https://www.computerfutures.com/nl-nl/](https://www.computerfutures.com/nl-nl/)
+* [https://www.tergos.nl/en](https://www.tergos.nl/en)
 
 ## Home Office
 
