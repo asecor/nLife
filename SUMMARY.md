@@ -10,4 +10,5 @@
 * [Amazon Alternatives](amazon-alternatives.md)
 * [Japanese Knives](japanese-knives.md)
 * [Coffee](coffee.md)
+* [Money Saving Tips](money-saving-tips.md)
 

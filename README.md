@@ -24,6 +24,8 @@ The lists below are in no particular order, and as always **be critical, get dif
 
 ## **Household Stuff** <a id="household-stuff"></a>
 
+* [WOZ Savings Calculator ](https://www.eigenhuis.nl/hypotheken/belastingen/woz/woz-bespaarcalculator#/)
+
 ### Compare Energy Suppliers <a id="compare-energy-suppliers"></a>
 
 * [https://www.energieleveranciers.nl/](https://www.energieleveranciers.nl/)
@@ -37,6 +39,7 @@ The lists below are in no particular order, and as always **be critical, get dif
 
 ### Energy Rating/Efficiency <a id="energy-ratingefficieny"></a>
 
+* [https://www.verbeterjehuis.nl/energiesubsidiewijzer/](https://www.verbeterjehuis.nl/energiesubsidiewijzer/)
 * [https://www.energielabel.nl/woningen](https://www.energielabel.nl/woningen)
 * [https://www.rijksoverheid.nl/onderwerpen/energie-thuis/vraag-en-antwoord/subsidie-isolatie-huis](https://www.rijksoverheid.nl/onderwerpen/energie-thuis/vraag-en-antwoord/subsidie-isolatie-huis)
 * [https://www.wooninfo.nl/vraagbaak/huurprijzen/puntentelling-woningen/](https://www.wooninfo.nl/vraagbaak/huurprijzen/puntentelling-woningen/)
