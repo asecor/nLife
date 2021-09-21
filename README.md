@@ -197,12 +197,8 @@ The longer the track record with more reviews, the better.
 
 > These are services that provide boxes with a variety of fruit & vegetables, majority of it locally sourced
 
-* [https://www.facebook.com/Lekkernassuh/](https://www.facebook.com/Lekkernassuh/) or [https://lekkernassuh.org/](https://lekkernassuh.org/)
+* [https://www.facebook.com/Lekkernassuh/](https://www.facebook.com/Lekkernassuh/)
 * [https://ecoandco.nl/](https://ecoandco.nl/)
-* [https://www.rechtstreex.nl/](https://www.rechtstreex.nl/)
-* [https://kistjevolsmaak.nl/](https://kistjevolsmaak.nl/)
-* [https://www.versebox.nl/](https://www.versebox.nl/)
-* [https://www.odin.nl/doe-mee/online-boodschappen/](https://www.odin.nl/doe-mee/online-boodschappen/)
 
 ## **Massage Places** <a id="massage-places"></a>
 

@@ -10,11 +10,11 @@
 
 * [https://www.marktplaats.nl/](https://www.marktplaats.nl/)
 * [https://www.facebook.com/marketplace/](https://www.facebook.com/marketplace/)
-* 'Supply and demand \[place name\]' groups
-* Supermarket notice boards 
-* Local thrift store or do a tour through the city
 * [https://www.vinted.com/](https://www.vinted.com/) is completely hip for clothes
 * [https://www.bva-auctions.com/](https://www.bva-auctions.com/) for office furniture or other items \(or another auction site\)
+* Supply and demand groups
+* Supermarket notice boards 
+* Local thrift store or do a tour through the city
 
 ## For Free
 
