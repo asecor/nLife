@@ -6,7 +6,9 @@ description: >-
 
 # General
 
-The lists below are in no particular order, and as always **be critical, get different offers, and follow your gut instinct**
+The lists below are in no particular order, and as always **be critical, get different offers, and follow your gut instinct. **
+
+If you have found the information on these pages helpful, you could [**always get me a coffee:**](https://www.buymeacoffee.com/nlife)****[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/nlife)
 
 ## **Accommodation** <a href="accomodation" id="accomodation"></a>
 
