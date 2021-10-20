@@ -2,7 +2,7 @@
 description: >-
   Welcome to life in the Netherlands! Here you'll find an accumulation of
   knowledge, experience and general life hacks from having lived in The Hague
-  area (The Netherlands) for many years, I have found
+  area (The Netherlands) for many years...
 ---
 
 # General
