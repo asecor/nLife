@@ -1,14 +1,15 @@
 ---
 description: >-
-  Welcome to life in the Netherlands! Here you'll find a list of a variety of
-  services recommended by local locals, local expats, and those in between!
+  Welcome to life in the Netherlands! Here you'll find an accumulation of
+  knowledge, experience and general life hacks from having lived in The Hague
+  area (The Netherlands) for many years, I have found
 ---
 
 # General
 
-The lists below are in no particular order, and as always **be critical, get different offers, and follow your gut instinct. **
+If you have found that the information provided has helped and would like to make a reciprocal gift - [coffee is a good motivator](https://www.buymeacoffee.com/nlife)☕:&#x20;
 
-If you have found the information on these pages helpful, you could [**always get me a coffee:**](https://www.buymeacoffee.com/nlife)****[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/nlife)
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/nlife)
 
 ## **Accommodation** <a href="accomodation" id="accomodation"></a>
 
