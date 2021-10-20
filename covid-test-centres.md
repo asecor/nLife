@@ -7,34 +7,32 @@ description: >-
 # COVID Test Centres
 
 * July & August you can book a free antigen/PCR test via - [https://afspraak.testenvoorjereis.nl/evenement/type](https://afspraak.testenvoorjereis.nl/evenement/type)
-* More information - [https://www.rijksoverheid.nl/onderwerpen/coronavirus-covid-19/reizen-en-vakantie/reizen-buitenland/gratis-coronatest-voor-reizigers-in-juli-en-augustus-2021](https://www.rijksoverheid.nl/onderwerpen/coronavirus-covid-19/reizen-en-vakantie/reizen-buitenland/gratis-coronatest-voor-reizigers-in-juli-en-augustus-2021) 
+* More information - [https://www.rijksoverheid.nl/onderwerpen/coronavirus-covid-19/reizen-en-vakantie/reizen-buitenland/gratis-coronatest-voor-reizigers-in-juli-en-augustus-2021](https://www.rijksoverheid.nl/onderwerpen/coronavirus-covid-19/reizen-en-vakantie/reizen-buitenland/gratis-coronatest-voor-reizigers-in-juli-en-augustus-2021)&#x20;
 
-| **Price** | Company | Website |
-| :--- | :--- | :--- |
-| €59 | Covid Test Clinic | [https://www.covidtestclinic.nl/](https://www.covidtestclinic.nl/) |
-| €59 | Planjecoronatest | [https://www.planjecoronatest.nl/](https://www.planjecoronatest.nl/) |
-| €75 | Corona Testcentrum De Terp | [https://coronatestcentrumdeterp.nl/](https://coronatestcentrumdeterp.nl/) |
-| €85 | Coronasnelcheck.nl | [https://www.coronasnelcheck.nl/pcr-test/](https://www.coronasnelcheck.nl/pcr-test/) |
-| €85 | Coronareistesten.nl | [https://coronareistesten.nl/onze-testen/pcr-test/](https://coronareistesten.nl/onze-testen/pcr-test/) |
-| €89 | Carephar | [https://carephar.nl/](https://carephar.nl/) |
-| €89 | Fammedics | [https://fammedics.nl/](https://fammedics.nl/) |
-| €89 | Coronalab | [https://coronalab.eu/](https://coronalab.eu/) |
-| €89 | Speedtest | [https://spoedtest.nl/en/](https://spoedtest.nl/en/) |
-| €95 | Zorg4ons.nl | [https://www.zorg4ons.nl/](https://www.zorg4ons.nl/) |
-| €99 | Lead Covid Service | [https://www.covidsnelteststraat.nl/](https://www.covidsnelteststraat.nl/) |
-| €109,95 | SnellePcrTest  | [https://snellepcrtest.nl/](https://snellepcrtest.nl/) |
-| ~~€119~~ | ~~Covid19kliniek~~ | ~~~~[~~https://covid19kliniek.nl/~~](https://covid19kliniek.nl/)~~~~ |
-| €135 | CSC Den Haag | [https://www.coronasneltestcentrumdenhaag.nl/testaanbod/](https://www.coronasneltestcentrumdenhaag.nl/testaanbod/) |
-| €139 | Vaccinaties op Reis | [https://www.vaccinatiesopreis.nl/](https://www.vaccinatiesopreis.nl/) |
-| €145 | pcrtestnederland.nl | [https://pcrtestnetherlands.com/](https://pcrtestnetherlands.com/) |
+| **Price** | Company                    | Website                                                                                                            |
+| --------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| €59       | Covid Test Clinic          | [https://www.covidtestclinic.nl/](https://www.covidtestclinic.nl)                                                  |
+| €59       | Planjecoronatest           | [https://www.planjecoronatest.nl/](https://www.planjecoronatest.nl)                                                |
+| €75       | Corona Testcentrum De Terp | [https://coronatestcentrumdeterp.nl/](https://coronatestcentrumdeterp.nl)                                          |
+| €85       | Coronasnelcheck.nl         | [https://www.coronasnelcheck.nl/pcr-test/](https://www.coronasnelcheck.nl/pcr-test/)                               |
+| €85       | Coronareistesten.nl        | [https://coronareistesten.nl/onze-testen/pcr-test/](https://coronareistesten.nl/onze-testen/pcr-test/)             |
+| €89       | Carephar                   | [https://carephar.nl/](https://carephar.nl)                                                                        |
+| €89       | Fammedics                  | [https://fammedics.nl/](https://fammedics.nl)                                                                      |
+| €89       | Coronalab                  | [https://coronalab.eu/](https://coronalab.eu)                                                                      |
+| €89       | Speedtest                  | [https://spoedtest.nl/en/](https://spoedtest.nl/en/)                                                               |
+| €95       | Zorg4ons.nl                | [https://www.zorg4ons.nl/](https://www.zorg4ons.nl)                                                                |
+| €99       | Lead Covid Service         | [https://www.covidsnelteststraat.nl/](https://www.covidsnelteststraat.nl)                                          |
+| €109,95   | SnellePcrTest              | [https://snellepcrtest.nl/](https://snellepcrtest.nl)                                                              |
+| ~~€119~~  | ~~Covid19kliniek~~         | ~~~~[~~https://covid19kliniek.nl/~~](https://covid19kliniek.nl)~~~~                                                |
+| €135      | CSC Den Haag               | [https://www.coronasneltestcentrumdenhaag.nl/testaanbod/](https://www.coronasneltestcentrumdenhaag.nl/testaanbod/) |
+| €139      | Vaccinaties op Reis        | [https://www.vaccinatiesopreis.nl/](https://www.vaccinatiesopreis.nl)                                              |
+| €145      | pcrtestnederland.nl        | [https://pcrtestnetherlands.com/](https://pcrtestnetherlands.com)                                                  |
 
 {% hint style="info" %}
-Explanation of the different COVID-19 laboratory tests - [https://www.hethuisartslab.com/covid19testen](https://www.hethuisartslab.com/covid19testen) 
+Explanation of the different COVID-19 laboratory tests - [https://www.hethuisartslab.com/covid19testen](https://www.hethuisartslab.com/covid19testen)&#x20;
 {% endhint %}
 
 {% hint style="danger" %}
 If you spot a mistake or have suggestions please contact me via **`c@nlife.nl`**
 {% endhint %}
-
-
 
