@@ -6,11 +6,7 @@ description: >-
 
 # General
 
-The lists below are in no particular order, and as always **be critical, get different offers, and follow your gut instinct. **
-
-
-
-![](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)
+The lists below are in no particular order, and as always **be critical, get different offers, and follow your gut instinct**
 
 ## **Accommodation** <a href="accomodation" id="accomodation"></a>
 
