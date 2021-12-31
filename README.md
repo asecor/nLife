@@ -11,7 +11,7 @@ If you have found that the information provided has helped and would like to mak
 
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/nlife)
 
-## **Accommodation** <a href="accomodation" id="accomodation"></a>
+## **Accommodation** <a href="#accomodation" id="accomodation"></a>
 
 * [https://www.funda.nl/](https://www.funda.nl)
 * [https://www.pararius.nl/](https://www.pararius.nl)
@@ -25,11 +25,11 @@ If you have found that the information provided has helped and would like to mak
 * [https://www.thehagueinternationalcentre.nl/](https://www.thehagueinternationalcentre.nl)
 * [https://access-nl.org/](https://access-nl.org)
 
-## **Household Stuff** <a href="household-stuff" id="household-stuff"></a>
+## **Household Stuff** <a href="#household-stuff" id="household-stuff"></a>
 
 * [WOZ Savings Calculator ](https://www.eigenhuis.nl/hypotheken/belastingen/woz/woz-bespaarcalculator#/)
 
-### Compare Energy Suppliers <a href="compare-energy-suppliers" id="compare-energy-suppliers"></a>
+### Compare Energy Suppliers <a href="#compare-energy-suppliers" id="compare-energy-suppliers"></a>
 
 * [https://www.energieleveranciers.nl/](https://www.energieleveranciers.nl)
 * [https://www.gaslicht.com/energievergelijker](https://www.gaslicht.com/energievergelijker)
@@ -40,14 +40,14 @@ If you have found that the information provided has helped and would like to mak
 * [https://www.coolblue.nl/energie](https://www.coolblue.nl/energie)
 * [https://gathering.tweakers.net/forum/list\_messages/1661789/last](https://gathering.tweakers.net/forum/list\_messages/1661789/last)
 
-### Energy Rating/Efficiency <a href="energy-ratingefficieny" id="energy-ratingefficieny"></a>
+### Energy Rating/Efficiency <a href="#energy-ratingefficieny" id="energy-ratingefficieny"></a>
 
 * [https://www.verbeterjehuis.nl/energiesubsidiewijzer/](https://www.verbeterjehuis.nl/energiesubsidiewijzer/)
 * [https://www.energielabel.nl/woningen](https://www.energielabel.nl/woningen)
 * [https://www.rijksoverheid.nl/onderwerpen/energie-thuis/vraag-en-antwoord/subsidie-isolatie-huis](https://www.rijksoverheid.nl/onderwerpen/energie-thuis/vraag-en-antwoord/subsidie-isolatie-huis)
 * [https://www.wooninfo.nl/vraagbaak/huurprijzen/puntentelling-woningen/](https://www.wooninfo.nl/vraagbaak/huurprijzen/puntentelling-woningen/)
 
-### Solar Panel Installation Companies <a href="solar-panel-installation-companies" id="solar-panel-installation-companies"></a>
+### Solar Panel Installation Companies <a href="#solar-panel-installation-companies" id="solar-panel-installation-companies"></a>
 
 {% hint style="info" %}
 "The one thing I would recommend is getting an inverter that is battery ready so that in the future when batteries become more attractive you can just add it to the system. Also look at the guarantees of the panels. Think sustainability over cheaper panels."&#x20;
@@ -62,7 +62,7 @@ If you have found that the information provided has helped and would like to mak
 * [http://www.energyguards.nl/](http://www.energyguards.nl)
 * [https://www.innodura.nl/zonnepanelen-kortingsactie-aeg-solar-met-goodwe-of-solaredge.html](https://www.innodura.nl/zonnepanelen-kortingsactie-aeg-solar-met-goodwe-of-solaredge.html)
 
-### CV Ketel / Central Heating Systems <a href="cv-ketel" id="cv-ketel"></a>
+### CV Ketel / Central Heating Systems <a href="#cv-ketel" id="cv-ketel"></a>
 
 {% hint style="info" %}
 Some things to keep in mind:
@@ -81,20 +81,20 @@ Leasing the CV is also a possible from various energy suppliers such as Eneco.
 * [https://www.cvtotaal.nl/cv-ketels/](https://www.cvtotaal.nl/cv-ketels/)
 * [https://www.warmteservice.nl/](https://www.warmteservice.nl)
 
-### Repair Shops <a href="repair-shops" id="repair-shops"></a>
+### Repair Shops <a href="#repair-shops" id="repair-shops"></a>
 
 * [https://www.wasmachinehuis.nl/](https://www.wasmachinehuis.nl)
 * [https://fixpart.nl/nl](https://fixpart.nl/nl)
 
-### Glass/Window Companies <a href="glasswindow-companies" id="glasswindow-companies"></a>
+### Glass/Window Companies <a href="#glasswindow-companies" id="glasswindow-companies"></a>
 
 * [https://www.hijmanglas.nl/](https://www.hijmanglas.nl)
 
-### Building / Construction / Maintenance / Renovation <a href="security-buurtpreventie" id="security-buurtpreventie"></a>
+### Building / Construction / Maintenance / Renovation <a href="#security-buurtpreventie" id="security-buurtpreventie"></a>
 
 * [http://alvansteenbergen.nl/](http://alvansteenbergen.nl/index.html)
 
-### Security / Buurtpreventie <a href="security-buurtpreventie" id="security-buurtpreventie"></a>
+### Security / Buurtpreventie <a href="#security-buurtpreventie" id="security-buurtpreventie"></a>
 
 * [https://slimthuis.app/tools/inbraak](https://slimthuis.app/tools/inbraak) - Burglary barometer
 
@@ -106,7 +106,7 @@ Leasing the CV is also a possible from various energy suppliers such as Eneco.
 
 * [https://www.rrs.nl/](https://www.rrs.nl) (Check with your VvE, they may already have a contract!)
 
-## **Animals / Vets **🐱🐶 <a href="animals-vets" id="animals-vets"></a>
+## **Animals / Vets** 🐱🐶 <a href="#animals-vets" id="animals-vets"></a>
 
 * [https://www.amivedi.nl/english](https://www.amivedi.nl/english) - Lost & found animals
 * [https://www.facebook.com/groups/256286467862511/](https://www.facebook.com/groups/256286467862511/) - Lost & found animals 070
@@ -142,14 +142,14 @@ The longer the track record with more reviews, the better.
 * [https://www.rover.com/](https://www.rover.com/nl/)
 * [http://www.hondenpensions.nl/](http://www.hondenpensions.nl)
 
-## **Taxes/Belastingdienst** <a href="taxesbelastingdienst" id="taxesbelastingdienst"></a>
+## **Taxes/Belastingdienst** <a href="#taxesbelastingdienst" id="taxesbelastingdienst"></a>
 
-### Tools / Calculators <a href="tools-calculators" id="tools-calculators"></a>
+### Tools / Calculators <a href="#tools-calculators" id="tools-calculators"></a>
 
 * [https://thetax.nl/](https://thetax.nl) - Calculate your net income
 * [**https://www.berekenhet.nl/**](https://www.berekenhet.nl) - Contains all sorts of calculators from inheritance taxes to linear vs annuity mortgages.
 
-### Tax Advisors <a href="tax-advisors" id="tax-advisors"></a>
+### Tax Advisors <a href="#tax-advisors" id="tax-advisors"></a>
 
 * [https://www.taxpas.nl/](https://www.taxpas.nl)
 * [https://azarovaconsulting.com/contact/](https://azarovaconsulting.com/contact/)
@@ -160,9 +160,9 @@ The longer the track record with more reviews, the better.
 * [http://www.kgxadministraties.nl/diensten/](http://www.kgxadministraties.nl/diensten/)
 * [https://ttmtax.nl/dutch-tax-return-online/](https://ttmtax.nl/dutch-tax-return-online/)
 
-## **Insurance** <a href="insurance" id="insurance"></a>
+## **Insurance** <a href="#insurance" id="insurance"></a>
 
-### Comparison Sites <a href="comparison-sites" id="comparison-sites"></a>
+### Comparison Sites <a href="#comparison-sites" id="comparison-sites"></a>
 
 > Health / Liability / Pet / Vehicle&#x20;
 
@@ -172,15 +172,15 @@ The longer the track record with more reviews, the better.
 * [https://www.poliswijzer.nl/](https://www.poliswijzer.nl)
 * [https://eerlijkegeldwijzer.nl/verzekeringswijzer/](https://eerlijkegeldwijzer.nl/verzekeringswijzer/)
 
-## **Health** <a href="health" id="health"></a>
+## **Health** <a href="#health" id="health"></a>
 
 * [https://www.zorgkaartnederland.nl/](https://www.zorgkaartnederland.nl) - Doctor/Physicians/etc. rating site
 * [https://www.government.nl/topics/quality-of-healthcare/healthcare-quality-complaints-and-disputes-act-wkkgz](https://www.government.nl/topics/quality-of-healthcare/healthcare-quality-complaints-and-disputes-act-wkkgz) - Complaints about a doctor
 * [https://klmhealthservices.com/](https://klmhealthservices.com) - Holiday vaccines
 
-## **Healthy Eating/Cooking/Bio** <a href="healthy-eatingcookingbio" id="healthy-eatingcookingbio"></a>
+## **Healthy Eating/Cooking/Bio** <a href="#healthy-eatingcookingbio" id="healthy-eatingcookingbio"></a>
 
-### **Bio Butchers** <a href="bio-butchers" id="bio-butchers"></a>
+### **Bio Butchers** <a href="#bio-butchers" id="bio-butchers"></a>
 
 * [https://www.keurslager.nl/](https://www.keurslager.nl)
 * [https://www.dewoestegrond.nl/nl/](https://www.dewoestegrond.nl/nl/)
@@ -195,7 +195,7 @@ The longer the track record with more reviews, the better.
 * [https://www.facebook.com/englebertstijlslagerij/](https://www.facebook.com/englebertstijlslagerij/)
 * [https://www.wildrundvlees.nl/](https://www.wildrundvlees.nl) - Apparently you can order monthly your meat (portioned for two or four persons), and you pick it up at a pick-up point in The Hague.
 
-### Bio/Local Food Boxes <a href="biolocal-food-boxes" id="biolocal-food-boxes"></a>
+### Bio/Local Food Boxes <a href="#biolocal-food-boxes" id="biolocal-food-boxes"></a>
 
 > These are services that provide boxes with a variety of fruit & vegetables, majority of it locally sourced&#x20;
 
@@ -206,7 +206,7 @@ The longer the track record with more reviews, the better.
 * [https://www.versebox.nl/](https://www.versebox.nl)
 * [https://www.odin.nl/doe-mee/online-boodschappen/](https://www.odin.nl/doe-mee/online-boodschappen/)
 
-## **Massage Places** <a href="massage-places" id="massage-places"></a>
+## **Massage Places** <a href="#massage-places" id="massage-places"></a>
 
 * [https://www.massagepoint.nl](https://www.massagepoint.nl)
 * [http://www.relaxpoint.nl/](http://www.relaxpoint.nl) or [https://www.facebook.com/therelaxpoint/](https://www.facebook.com/therelaxpoint/)
@@ -215,11 +215,11 @@ The longer the track record with more reviews, the better.
 * [http://www.elemiahmassage.nl/](http://www.elemiahmassage.nl)
 * [https://www.facebook.com/massagesense/](https://www.facebook.com/massagesense/)
 
-## **Air-conditioning Spots** <a href="airconditioning-spots" id="airconditioning-spots"></a>
+## **Air-conditioning Spots** <a href="#airconditioning-spots" id="airconditioning-spots"></a>
 
 * [https://localholland.com/the-hague/services-in-the-hague/air-conditioning-in-hague/](https://localholland.com/the-hague/services-in-the-hague/air-conditioning-in-hague/)
 
-## **Child Related** <a href="child-related" id="child-related"></a>
+## **Child Related** <a href="#child-related" id="child-related"></a>
 
 ### Kraamzorg / Post Natal Care
 
@@ -230,32 +230,32 @@ The longer the track record with more reviews, the better.
 * [https://kraamzorghetzonnetje.nl/](https://kraamzorghetzonnetje.nl)
 * [https://www.kraamzorganne.nl/](https://www.kraamzorganne.nl)
 
-### Baby Sitter <a href="baby-sitter" id="baby-sitter"></a>
+### Baby Sitter <a href="#baby-sitter" id="baby-sitter"></a>
 
 * [https://nannynina.nl/](https://nannynina.nl)
 
-### Kids Summer Camps <a href="kids-summer-camps" id="kids-summer-camps"></a>
+### Kids Summer Camps <a href="#kids-summer-camps" id="kids-summer-camps"></a>
 
 * [https://www.amsterdam.nl/toerisme-vrije-tijd/jeugdland/](https://www.amsterdam.nl/toerisme-vrije-tijd/jeugdland/)
 * [https://www.hartbeach.nl/surfschool/surfcamp/](https://www.hartbeach.nl/surfschool/surfcamp/)
 * [https://jvadenhaag.nl/](https://jvadenhaag.nl)
 * [https://www.sportkampen.nl/](https://www.sportkampen.nl)
 
-## **Transport** <a href="transport" id="transport"></a>
+## **Transport** <a href="#transport" id="transport"></a>
 
-### Bike Rental <a href="bike-rental" id="bike-rental"></a>
+### Bike Rental <a href="#bike-rental" id="bike-rental"></a>
 
 * [https://www.peerby.com/c/bakfiets-huren-in-den-haag](https://www.peerby.com/c/bakfiets-huren-in-den-haag)
 * [https://www.facebook.com/LolaBikesandCoffee/](https://www.facebook.com/LolaBikesandCoffee/)
 * [https://www.facebook.com/DuNordRijwielen/](https://www.facebook.com/DuNordRijwielen/)
 
-### Bus / Coach / Car Sharing <a href="bus-coach-car-sharing" id="bus-coach-car-sharing"></a>
+### Bus / Coach / Car Sharing <a href="#bus-coach-car-sharing" id="bus-coach-car-sharing"></a>
 
 * [https://www.eurolines.de/en/home/](https://www.eurolines.de/en/home/)
 * [https://global.flixbus.com/bus/netherlands](https://global.flixbus.com/bus/netherlands)
 * [https://www.blablacar.nl/](https://www.blablacar.nl)
 
-### Car Rental <a href="car-rental" id="car-rental"></a>
+### Car Rental <a href="#car-rental" id="car-rental"></a>
 
 * [https://www.avis.nl/](https://www.avis.nl)
 * [https://www.rentalcars.com/](https://www.rentalcars.com)
@@ -271,7 +271,7 @@ The longer the track record with more reviews, the better.
 * [DirectLease Tankservice App](https://play.google.com/store/apps/details?id=com.app\_it\_up.dl\_tankservice\&hl=nl\&gl=US)
 * [https://pompmeister.nl/](https://pompmeister.nl)
 
-### Car Selling/Buying <a href="car-sellingbuying" id="car-sellingbuying"></a>
+### Car Selling/Buying <a href="#car-sellingbuying" id="car-sellingbuying"></a>
 
 * [https://bynco.com/nl-en/](https://bynco.com/nl-en/)
 * [https://www.wijkopenautos.nl/](https://www.wijkopenautos.nl)
@@ -279,7 +279,7 @@ The longer the track record with more reviews, the better.
 * [http://voorraad.autodatawheelerdelta.nl/](http://voorraad.autodatawheelerdelta.nl)
 * [https://www.autoscout24.nl/](https://www.autoscout24.nl)
 
-### Car Tires <a href="car-tires" id="car-tires"></a>
+### Car Tires <a href="#car-tires" id="car-tires"></a>
 
 > Buying or storing tires&#x20;
 
@@ -287,24 +287,24 @@ The longer the track record with more reviews, the better.
 * [https://www.oponeo.nl/](https://www.oponeo.nl)
 * [http://www.gebruiktebanden.net/](http://www.gebruiktebanden.net)
 
-### Parking <a href="parking" id="parking"></a>
+### Parking <a href="#parking" id="parking"></a>
 
 * [https://www.prettigparkeren.nl/](https://www.prettigparkeren.nl) - Find free parking & costs
 * [https://parkereninijdock.nl/en/](https://parkereninijdock.nl/en/) - Park in Amsterdam for an entire day
 * [https://parkmobile.nl/](https://parkmobile.nl) - Parking app
 
-### Taxi Companies <a href="taxi-companies" id="taxi-companies"></a>
+### Taxi Companies <a href="#taxi-companies" id="taxi-companies"></a>
 
 * [https://www.facebook.com/taxiticket/](https://www.facebook.com/taxiticket/)
 * [https://oranjetaxiservice.nl/](https://oranjetaxiservice.nl)
 * [https://taxidh.nl/](https://taxidh.nl)
 
-## **Stolen / Lost Items** <a href="stolen-lost-items" id="stolen-lost-items"></a>
+## **Stolen / Lost Items** <a href="#stolen-lost-items" id="stolen-lost-items"></a>
 
 * [https://english.stopheling.nl/](https://english.stopheling.nl)
 * [https://gestolenobjectenregister.nl/](https://gestolenobjectenregister.nl)
 
-## **Cakes & Bakeries** <a href="cakes-bakeries" id="cakes-bakeries"></a>
+## **Cakes & Bakeries** <a href="#cakes-bakeries" id="cakes-bakeries"></a>
 
 * [https://www.facebook.com/cakesnbuttons](https://www.facebook.com/cakesnbuttons)
 * [https://www.detaartenmakelaar.nl/](https://www.detaartenmakelaar.nl)
@@ -312,17 +312,17 @@ The longer the track record with more reviews, the better.
 * [https://www.bakkervanmaanen.nl/](https://www.bakkervanmaanen.nl)
 * [https://www.facebook.com/pages/Maison-Kelder/527365977662233](https://www.facebook.com/pages/Maison-Kelder/527365977662233)
 
-## Florists <a href="florists" id="florists"></a>
+## Florists <a href="#florists" id="florists"></a>
 
 * [https://topbloemen.nl/](https://topbloemen.nl)&#x20;
 * [http://flowertime.nl/](http://flowertime.nl)
 
-## **Complaints / Issues** <a href="complaints-issues" id="complaints-issues"></a>
+## **Complaints / Issues** <a href="#complaints-issues" id="complaints-issues"></a>
 
 * [https://www.klachtenkompas.nl/](https://www.klachtenkompas.nl)
 * [https://allestoringen.nl/](https://allestoringen.nl) - Real-time detection of malfunctions and problems
 
-## **Jobs / Work** <a href="jobs-work" id="jobs-work"></a>
+## **Jobs / Work** <a href="#jobs-work" id="jobs-work"></a>
 
 * [https://www.monsterboard.nl/](https://www.monsterboard.nl)
 * [https://www.linkedin.com/](https://www.linkedin.com)

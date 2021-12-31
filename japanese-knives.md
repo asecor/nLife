@@ -49,7 +49,7 @@ For softer steels below 60 HRC sharpening can be supplemented with honing. You c
 
 Pull through sharpeners should be avoided regardless of if they are handheld, electric, ceramic, or diamond.
 
-#### How do I sharpen? <a href="wiki_how_do_i_sharpen.3f" id="wiki_how_do_i_sharpen.3f"></a>
+#### How do I sharpen? <a href="#wiki_how_do_i_sharpen.3f" id="wiki_how_do_i_sharpen.3f"></a>
 
 To learn a technique that might work for you, consider watching through one of these playlists:
 
@@ -57,9 +57,9 @@ To learn a technique that might work for you, consider watching through one of t
 * Korin: [https://www.youtube.com/playlist?list=PLsSxXLQSZIe\_\_A5THcrFGto9\_PSkXWiN6](https://www.youtube.com/playlist?list=PLsSxXLQSZIe\_\_A5THcrFGto9\_PSkXWiN6)
 * KnifePlanet: [https://www.youtube.com/watch?v=pl1G46NoETc](https://www.youtube.com/watch?v=pl1G46NoETc)
 
-#### Whetstone recommendations <a href="wiki_whetstone_recommendations" id="wiki_whetstone_recommendations"></a>
+#### Whetstone recommendations <a href="#wiki_whetstone_recommendations" id="wiki_whetstone_recommendations"></a>
 
-For beginners, by far the _two most common recommendations are (1) a _[_single 1000 grit stone_](https://www.reddit.com/r/chefknives/comments/icuif5/the\_comprehensive\_beginners\_stone\_buying\_guide/)_ or (2) a combination stone like the King 1k/6k or Suehiro 1k/3k_. See [this thread](https://www.reddit.com/r/chefknives/comments/ej66dq/i\_bought\_a\_knife\_now\_what/fcvvu5p?context=3) for some back-and-forth over what the better option is.
+For beginners, by far the _two most common recommendations are (1) a_ [_single 1000 grit stone_](https://www.reddit.com/r/chefknives/comments/icuif5/the\_comprehensive\_beginners\_stone\_buying\_guide/) _or (2) a combination stone like the King 1k/6k or Suehiro 1k/3k_. See [this thread](https://www.reddit.com/r/chefknives/comments/ej66dq/i\_bought\_a\_knife\_now\_what/fcvvu5p?context=3) for some back-and-forth over what the better option is.
 
 Here are some "tried and true" whetstones you might want to consider. See the [page on whetstones](https://www.reddit.com/r/chefknives/wiki/whetstones) for more recommendations and detailed breakdowns.
 
@@ -79,4 +79,4 @@ Here are some "tried and true" whetstones you might want to consider. See the [p
 | Medium   | Shapton Kuromaku 1000 | Suehiro Debado SNE 1000 | Naniwa Pro 1000         |
 | Fine     | King 6000             | Naniwa Pro 3000         | Suehiro Debado SNE 6000 |
 
-_Source: _[_https://www.reddit.com/r/chefknives/wiki/gettingstarted_](https://www.reddit.com/r/chefknives/wiki/gettingstarted)__
+_Source:_ [_https://www.reddit.com/r/chefknives/wiki/gettingstarted_](https://www.reddit.com/r/chefknives/wiki/gettingstarted)__

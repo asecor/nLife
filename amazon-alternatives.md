@@ -71,7 +71,7 @@ description: Below list shows how suffocating Amazon is and how many businesses 
 ### Baby
 
 * [Beaming Baby](https://beamingbaby.co.uk) - Beaming Baby are a specialist provider of biodegradable diapers that are toxic-free and environment-friendly.
-* ****[Babipur ](https://www.babipur.co.uk)**- **Founded by wife and husband, the UK company Babipur sell a range of ethically-made baby items; from clothes to food to toys.
+* ****[Babipur ](https://www.babipur.co.uk)**-** Founded by wife and husband, the UK company Babipur sell a range of ethically-made baby items; from clothes to food to toys.
 
 ### Jewellery
 

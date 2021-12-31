@@ -8,7 +8,7 @@
 * [https://www.koffiecentrale.nl/apparatuur](https://www.koffiecentrale.nl/apparatuur)
 * [https://www.kookpunt.nl/koffie-thee](https://www.kookpunt.nl/koffie-thee)
 
-[**Google Sheets List of Espresso Machines**](https://docs.google.com/spreadsheets/d/1vJv2AGJ1ZSm1TSdoixfJADh5z1CAZjzqjmTz5vrKEj4/edit?usp=sharing)** **
+[**Google Sheets List of Espresso Machines**](https://docs.google.com/spreadsheets/d/1vJv2AGJ1ZSm1TSdoixfJADh5z1CAZjzqjmTz5vrKEj4/edit?usp=sharing) ****&#x20;
 
 ### Beans
 
@@ -19,13 +19,13 @@
 * [https://www.koffiepiraat.nl/nl/](https://www.koffiepiraat.nl/nl/)
 * [https://jonesbrotherscoffee.com/nl/](https://jonesbrotherscoffee.com/nl/)
 
-### Espresso 101 <a href="wiki_espresso_101" id="wiki_espresso_101"></a>
+### Espresso 101 <a href="#wiki_espresso_101" id="wiki_espresso_101"></a>
 
-_Espresso starts with the **coffee bean**. Fresher is better. As _[_u/Beans\_McGhee_](https://www.reddit.com/u/Beans\_McGhee)_ says, "The beans really need to be roasted within the month you use them for perfect espresso." Store-bought beans are fine, really—but part of the "fun" of espresso is trying different beans._
+_Espresso starts with the **coffee bean**. Fresher is better. As_ [_u/Beans\_McGhee_](https://www.reddit.com/u/Beans\_McGhee) _says, "The beans really need to be roasted within the month you use them for perfect espresso." Store-bought beans are fine, really—but part of the "fun" of espresso is trying different beans._
 
 _You **grind** your coffee beans using a grinder. This sub has lots of opinions on grinders._
 
-_The amount of ground coffee you use is called the **dose**. So when _[_u/SingularLattice_](https://www.reddit.com/u/SingularLattice)_ says, "Make sure you have the right dose for your basket", that's what he means._
+_The amount of ground coffee you use is called the **dose**. So when_ [_u/SingularLattice_](https://www.reddit.com/u/SingularLattice) _says, "Make sure you have the right dose for your basket", that's what he means._
 
 _A **basket** is the little metal cup that goes in your **portafilter**—that's the metal thing with a handle on it. Espresso machines often come with 4 baskets: a single and a double in both unpressurized and pressurized. Doubles are the larger ones; pressurized variants are a different shape and may say "dual wall" on the bottom._
 
@@ -37,7 +37,7 @@ _Coffee grounds are light and fluffy, but you want them to be compact for espres
 
 _You will get a feel for the right amount of force. You can also look at the level of the grounds in the basket. Use shape of your tamper or other tool to estimate how much space should be between your (tamped) grounds and the top of the basket._
 
-_As _[_u/SingularLattice_](https://www.reddit.com/u/SingularLattice)_ says, "You need to tamp FLAT, not hard. So long as it’s firm, you’re good."_
+_As_ [_u/SingularLattice_](https://www.reddit.com/u/SingularLattice) _says, "You need to tamp FLAT, not hard. So long as it’s firm, you’re good."_
 
 _At the advanced level, preparing espresso is all about **ratios**, namely weight and time. Generally, you want a 2:1 ratio in about 30 seconds. The 2:1 ratio means the ratio of your dose (i.e., \~18g) to the resulting espresso (i.e., \~36g). The process of brewing espresso is called **extraction**._
 
@@ -53,4 +53,4 @@ _Your goal here is a **well-extracted shot**. That's all about how it tastes! Es
 
 _Everyone here is adjusting all these variables (bean, pressure, grind size, dose, ratio, extraction time, and more) in search of the perfect shot!_
 
-**Source: **[**https://www.reddit.com/r/espresso/wiki/index**](https://www.reddit.com/r/espresso/wiki/index)** **
+**Source:** [**https://www.reddit.com/r/espresso/wiki/index**](https://www.reddit.com/r/espresso/wiki/index) ****&#x20;
