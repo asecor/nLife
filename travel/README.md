@@ -34,6 +34,6 @@ Free PCR tests for travel - [https://afspraak.testenvoorjereis.nl/](https://afsp
 * [https://www.diplomatie.gouv.fr/en/coming-to-france/coronavirus-advice-for-foreign-nationals-in-france/#sommaire\_1](https://www.diplomatie.gouv.fr/en/coming-to-france/coronavirus-advice-for-foreign-nationals-in-france/#sommaire\_1)&#x20;
 
 {% hint style="danger" %}
-If you spot a mistake or have suggestions please contact me via **`c@nlife.nl`**
+If you spot a mistake or have suggestions please contact me via **`corin@nlife.nl`**
 {% endhint %}
 

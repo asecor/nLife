@@ -82,5 +82,5 @@ description: Below list shows how suffocating Amazon is and how many businesses 
 
 
 {% hint style="danger" %}
-If you spot a mistake or have suggestions please contact me via **`c@nlife.nl`**
+If you spot a mistake or have suggestions please contact me via **`corni@nlife.nl`**
 {% endhint %}

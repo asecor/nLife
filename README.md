@@ -387,5 +387,5 @@ Shop around to compare the best rates as they can sometimes vary
 
 
 {% hint style="danger" %}
-If you spot a mistake or have suggestions please contact me via **`c@nlife.nl`**
+If you spot a mistake or have suggestions please contact me via **`corin@nlife.nl`**
 {% endhint %}

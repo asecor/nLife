@@ -30,6 +30,6 @@
 * [Spalato Delicatessen (Den Haag)](https://goo.gl/maps/9hYQ14TgnsH7DE8CA)
 
 {% hint style="danger" %}
-If you spot a mistake or have suggestions please contact me via **`c@nlife.nl`**
+If you spot a mistake or have suggestions please contact me via **`corin@nlife.nl`**
 {% endhint %}
 

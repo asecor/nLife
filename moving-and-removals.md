@@ -33,5 +33,5 @@ As always, make sure you shop around, get different quotes and competitively com
 * ****[Baggage](https://baggage.nl/en/)
 
 {% hint style="danger" %}
-If you spot a mistake or have suggestions please contact me via **`c@nlife.nl`**
+If you spot a mistake or have suggestions please contact me via **`corin@nlife.nl`**
 {% endhint %}

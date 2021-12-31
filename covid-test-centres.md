@@ -33,6 +33,6 @@ Explanation of the different COVID-19 laboratory tests - [https://www.hethuisart
 {% endhint %}
 
 {% hint style="danger" %}
-If you spot a mistake or have suggestions please contact me via **`c@nlife.nl`**
+If you spot a mistake or have suggestions please contact me via **`corin@nlife.nl`**
 {% endhint %}
 
