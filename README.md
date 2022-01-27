@@ -7,10 +7,6 @@ description: >-
 
 # General
 
-If you have found that the information provided has helped and would like to make a reciprocal gift - [coffee is a good motivator](https://www.buymeacoffee.com/nlife)☕:&#x20;
-
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/nlife)
-
 ## **Accommodation** <a href="#accomodation" id="accomodation"></a>
 
 * [https://www.funda.nl/](https://www.funda.nl)
