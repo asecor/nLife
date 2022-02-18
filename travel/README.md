@@ -18,6 +18,15 @@ Websites that track the status of travel restrictions and health requirements ne
 
 * [http://reopen.eu/](http://reopen.eu)
 
+### Flight Search
+
+* [https://www.momondo.nl/](https://www.momondo.nl)
+* [https://partnerdash.google.com/apps/matrix/search](https://partnerdash.google.com/apps/matrix/search)
+* [https://www.google.com/flights](https://www.google.com/flights)
+* [https://matrix.itasoftware.com/](https://matrix.itasoftware.com)
+* [https://www.kiwi.com/](https://www.kiwi.com)
+* [https://transfertravel.com/](https://transfertravel.com)&#x20;
+
 ### Netherlands
 
 * [https://reizentijdenscorona.rijksoverheid.nl/en](https://reizentijdenscorona.rijksoverheid.nl/en) - Quarantine Travel Checker
