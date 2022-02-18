@@ -4,15 +4,21 @@ description: Some useful travel related links
 
 # Travel
 
+### Worldwide
+
+Websites that track the status of travel restrictions and health requirements needed to enter for every country
+
+* [https://apply.joinsherpa.com/map](https://apply.joinsherpa.com/map)
+* [https://borderless.safetywing.com/](https://borderless.safetywing.com)&#x20;
+* [https://www.kayak.com/travel-restrictions](https://www.kayak.com/travel-restrictions)&#x20;
+* [https://virusmap.co/en/](https://virusmap.co/en/)
+* [https://covid19travel.com/](https://covid19travel.com)
+
 ### EU Wide Information
 
 * [http://reopen.eu/](http://reopen.eu)
 
 ### Netherlands
-
-{% hint style="info" %}
-Free PCR tests for travel - [https://afspraak.testenvoorjereis.nl/](https://afspraak.testenvoorjereis.nl)&#x20;
-{% endhint %}
 
 * [https://reizentijdenscorona.rijksoverheid.nl/en](https://reizentijdenscorona.rijksoverheid.nl/en) - Quarantine Travel Checker
 * [https://www.nederlandwereldwijd.nl/reizen/reisadviezen](https://www.nederlandwereldwijd.nl/reizen/reisadviezen) - Travel Advice
