@@ -1,8 +1,7 @@
 # Table of contents
 
 * [General](README.md)
-* [Travel](travel/README.md)
-  * [Flights Searching](travel/flights-searching.md)
+* [Travel](travel.md)
 * [COVID Test Centres](covid-test-centres.md)
 * [Buying Property](buying-property.md)
 * [Moving & Removals](moving-and-removals.md)
