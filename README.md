@@ -89,6 +89,7 @@ Leasing the CV is also a possible from various energy suppliers such as Eneco.
 ### Building / Construction / Maintenance / Renovation <a href="#security-buurtpreventie" id="security-buurtpreventie"></a>
 
 * [http://alvansteenbergen.nl/](http://alvansteenbergen.nl/index.html)
+* [https://kscn.nl/](https://kscn.nl)
 
 ### Security / Buurtpreventie <a href="#security-buurtpreventie" id="security-buurtpreventie"></a>
 
