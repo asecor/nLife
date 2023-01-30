@@ -9,23 +9,23 @@ description: Some useful travel related links
 Websites that track the status of travel restrictions and health requirements needed to enter for every country
 
 * [https://apply.joinsherpa.com/map](https://apply.joinsherpa.com/map)
-* [https://borderless.safetywing.com/](https://borderless.safetywing.com)&#x20;
+* [https://borderless.safetywing.com/](https://borderless.safetywing.com/)&#x20;
 * [https://www.kayak.com/travel-restrictions](https://www.kayak.com/travel-restrictions)&#x20;
 * [https://virusmap.co/en/](https://virusmap.co/en/)
-* [https://covid19travel.com/](https://covid19travel.com)
+* [https://covid19travel.com/](https://covid19travel.com/)
 
 ### EU Wide Information
 
-* [http://reopen.eu/](http://reopen.eu)
+* [http://reopen.eu/](http://reopen.eu/)
 
 ### Flight Search
 
-* [https://www.momondo.nl/](https://www.momondo.nl)
+* [https://www.momondo.nl/](https://www.momondo.nl/)
 * [https://partnerdash.google.com/apps/matrix/search](https://partnerdash.google.com/apps/matrix/search)
 * [https://www.google.com/flights](https://www.google.com/flights)
-* [https://matrix.itasoftware.com/](https://matrix.itasoftware.com)
-* [https://www.kiwi.com/](https://www.kiwi.com)
-* [https://transfertravel.com/](https://transfertravel.com)&#x20;
+* [https://matrix.itasoftware.com/](https://matrix.itasoftware.com/)
+* [https://www.kiwi.com/](https://www.kiwi.com/)
+* [https://transfertravel.com/](https://transfertravel.com/)&#x20;
 
 ### Netherlands
 
@@ -38,9 +38,9 @@ Websites that track the status of travel restrictions and health requirements ne
 * [https://www.gov.uk/guidance/how-to-quarantine-when-you-arrive-in-england](https://www.gov.uk/guidance/how-to-quarantine-when-you-arrive-in-england)
   * Complete Passenger Locator form - [https://provide-journey-contact-details.homeoffice.gov.uk/passengerLocatorFormUserAccountHolderQuestion](https://provide-journey-contact-details.homeoffice.gov.uk/passengerLocatorFormUserAccountHolderQuestion)
   * Book PCR or Antigen test before travelling
-    * [https://afspraak.testenvoorjereis.nl/](https://afspraak.testenvoorjereis.nl) (Currently free for August)
+    * [https://afspraak.testenvoorjereis.nl/](https://afspraak.testenvoorjereis.nl/) (Currently free for August)
   * Book day 2 & 8 self tests (you may need to show proof on arrival in UK)
-    * [https://www.testingforall.org/](https://www.testingforall.org)
+    * [https://www.testingforall.org/](https://www.testingforall.org/)
   * Optional - you can book day 5 PCR test for release
     * [https://www.boots.com/covid-19-testing/covid-19-test-to-release](https://www.boots.com/covid-19-testing/covid-19-test-to-release)
 

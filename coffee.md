@@ -2,9 +2,9 @@
 
 ### Equipment
 
-* [https://www.casabarista.nl/](https://www.casabarista.nl)
+* [https://www.casabarista.nl/](https://www.casabarista.nl/)
 * [http://liquidaffairs.nl/drtrading/](http://liquidaffairs.nl/drtrading/)
-* [https://www.koffiewarenhuis.nl/](https://www.koffiewarenhuis.nl)
+* [https://www.koffiewarenhuis.nl/](https://www.koffiewarenhuis.nl/)
 * [https://www.koffiecentrale.nl/apparatuur](https://www.koffiecentrale.nl/apparatuur)
 * [https://www.kookpunt.nl/koffie-thee](https://www.kookpunt.nl/koffie-thee)
 
@@ -13,9 +13,9 @@
 ### Beans
 
 * [https://www.koffie.nl/Koffiebonen](https://www.koffie.nl/Koffiebonen)
-* [https://www.koffiebranderijboon.nl/](https://www.koffiebranderijboon.nl)
+* [https://www.koffiebranderijboon.nl/](https://www.koffiebranderijboon.nl/)
 * [https://www.tuscanycoffee.nl/product-categorie/koffiebonen/](https://www.tuscanycoffee.nl/product-categorie/koffiebonen/)
-* [https://www.koffiecentrale.nl/](https://www.koffiecentrale.nl)
+* [https://www.koffiecentrale.nl/](https://www.koffiecentrale.nl/)
 * [https://www.koffiepiraat.nl/nl/](https://www.koffiepiraat.nl/nl/)
 * [https://jonesbrotherscoffee.com/nl/](https://jonesbrotherscoffee.com/nl/)
 
